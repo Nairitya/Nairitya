@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nairitya
 - 👀 I’m interested in Web Development and UI design.
-- 🌱 I’m currently learning Front-end Development and Digital Art.
+- 🌱 I’m currently learning Front-end Development. I also do UI Design and Digital Art.
 - 📫 How to reach me --> nairityachourey99@gmail.com
 
 <!---
