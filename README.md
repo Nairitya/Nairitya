@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Nairitya
 - 👀 I’m interested in Web Development and UI design.
-- 🌱 I’m currently learning Front-end Development. I also do UI Design and Digital Art.
+- 🌱 I’m currently working on React JS Projects. I also do UI Design and Digital Art.
 - 📫 How to reach me --> nairityachourey99@gmail.com
+- 📲 Get in touch on Linkedin --> linkedin.com/in/nairityachourey/
 
-<!---
-Nairitya/Nairitya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
