@@ -2,6 +2,6 @@
 - 👀 I’m interested in Web Development and UI design.
 - 🌱 I’m currently working on React JS Projects. I also do UI Design and Digital Art.
 - 📫 How to reach me --> nairityachourey99@gmail.com
-- 📲 Get in touch on Linkedin --> <linkedin.com/in/nairityachourey/>
+- 📲 Get in touch on Linkedin --> <https://www.linkedin.com/in/nairityachourey/>
 - 📃 Check my Portfolio --> <https://nairitya-portfolio.netlify.app/>
 
