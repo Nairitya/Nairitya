@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!!;See+my+tech+stack+below)](https://git.io/typing-svg)<br/>
 ![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,tailwind,bootstrap,)
 ![My Skills](https://skillicons.dev/icons?i=ai,figma)
 - 👋 Hi, I’m @Nairitya
